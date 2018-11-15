@@ -10,7 +10,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Lato:300,400,700" !defa
 // Navbar ======================================================================
 
 .navbar {
-  font-size: $font-size-sm;
+  font-size: 16px;
 }
 
 // Buttons =====================================================================
@@ -31,11 +31,11 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Lato:300,400,700" !defa
 
 .dropdown-menu {
 
-  font-size: $font-size-sm;
+  font-size: 16px;
 }
 
 .dropdown-header {
-  font-size: $font-size-sm;
+  font-size: 16px;
 }
 
 .blockquote-footer {
@@ -45,7 +45,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Lato:300,400,700" !defa
 // Tables ======================================================================
 
 .table {
-  font-size: $font-size-sm;
+  font-size: 16px;
 
   .thead-dark th {
     color: $white;
@@ -187,7 +187,7 @@ label,
 .radio label,
 .checkbox label,
 .help-block {
-  font-size: $font-size-sm;
+  font-size: 16px;
 }
 
 // Navs ========================================================================
