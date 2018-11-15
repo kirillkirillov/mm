@@ -13,7 +13,7 @@ git_edit_address: https://kirillkirillov.github.io/mm/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
-bootwatch: flatly
+bootwatch: superhero
 
 # Build settings
 markdown: kramdown
