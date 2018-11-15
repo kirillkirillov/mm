@@ -3,9 +3,12 @@
   - home
   - themes
   - customization
-  - Business Бизнес-информатика
-  - Информационные системы и технологии
 
+- title: Дисциплины
+  docs:
+  - Бизнес-информатика
+  - Информационные системы и технологии
+  
 - title: Examples
   docs:
   - cheatsheet
