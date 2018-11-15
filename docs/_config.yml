@@ -1,9 +1,8 @@
 # Site settings
-title: Jekyll Doc Theme
+title: Математическое моделирование
 email: kirill.a.kirillov@gmail.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Сайт кафедры "Математическое моделирование" АДИ ДонНТУ
 lang: en-US
 
 baseurl: https://kirillkirillov.github.io/mm # the subpath of your site, e.g. /blog/
