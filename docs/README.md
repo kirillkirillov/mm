@@ -1,5 +1,6 @@
 # Jekyll Doc Theme
 
+Go to [the website](https://kirillkirillov.github.io/mm/) for detailed information and demo.
 Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
 
 ## Running locally
