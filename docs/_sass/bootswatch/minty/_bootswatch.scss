@@ -10,7 +10,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 // Navbar ======================================================================
 
 .navbar {
-  font-family: $headings-font-family;
+  font-family: Montserrat;
 }
 
 .bg-dark {
@@ -24,7 +24,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 // Buttons =====================================================================
 
 .btn {
-  font-family: $headings-font-family;
+  font-family: Montserrat;
 
   &,
   &:hover {
